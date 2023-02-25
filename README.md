@@ -1,16 +1,32 @@
 
 ## 个人信息
-- 杜立华/15608003136/928965406@qq.com/26/2.5年前端经验
+- 杜立华/15608003136/928965406@qq.com/27/4年前端经验
 - 成都理工大学/通信工程/2013-2017
 ## 期望
 - 前端工程师
 ## 专业技术
-- Vue 全家桶/element-ui
+- Vue 全家桶/element-ui/antdv
 - es6+/ts/scss/axios
 - echarts
 - 了解 Mini Program/uni-app/react
 ## 工作经历
-### 成都宽邦科技有限公司 （ 2021-4 ~ 至今）
+### 成都宽邦科技有限公司 （ 2021-4 ~ 至今）前端组长
+#### aistudio 
+- 基于vscode开发，适应公司业务，插入可视化
+- vscode插件
+#### bigwebux
+- vue3+vue-router-pinia+ts+antdv+vite
+- 公司官网重构，由之前的Django渲染改为前后端分离,新业务开发
+
+#### fundux
+- vue3+vue-router-pinia+ts+antdv+vite
+- 中信建投基金平台
+#### 招商量化平台
+- vue3+vue-router-pinia+ts+antdv+vite
+- 搭建项目及部分业务开发
+#### bigconfig
+- vue2+element-ui
+- 配置中心
 #### PAAS平台开发
 - 技术栈：react+ts
 - 整体业务：底层支持
@@ -21,7 +37,7 @@
 - 技术栈：react+ts
 - 整体业务：在线编写策略
 - 个人职责：功能开发
-### 成都翰东科技有限公司 （ 2019-3 ~ 2021-4）
+### 成都翰东科技有限公司 （ 2019-3 ~ 2021-4）前端开发
 
 #### 人员定位及落水报警系统
 - 技术选项：vue3+vue-router+element-plus+ts+konva+axios+webpack
