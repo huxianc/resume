@@ -11,33 +11,39 @@
 - 了解 Mini Program/uni-app/react
 ## 工作经历
 ### 成都宽邦科技有限公司 （ 2021-4 ~ 至今）前端组长
+### 成都翰东科技有限公司 （ 2019-3 ~ 2021-4）前端开发
+## 项目经历
 #### aistudio 
 - 基于vscode开发，适应公司业务，插入可视化
 - vscode插件
-#### bigwebux
-- vue3+vue-router-pinia+ts+antdv+vite
-- 公司官网重构，由之前的Django渲染改为前后端分离,新业务开发
-
-#### fundux
-- vue3+vue-router-pinia+ts+antdv+vite
-- 中信建投基金平台
-#### 招商量化平台
-- vue3+vue-router-pinia+ts+antdv+vite
+#### bigwebux 公司官网
+- 在线预览：https://bigquant.com
+- 技术栈：vue3+vue-router-pinia+ts+antdv+vite
+- 公司官网重构，由之前的Django渲染改为前后端分离，新业务开发（多空间/数据平台/因子平台/...）
+#### operationux 运营控制台
+- 技术栈：vue3+vue-router-pinia+ts+antdv+vite
+- 用于运营同事管控（用户/推送/账单/资源/空间/可视化图表/...）
+#### fundux 中信建投基金平台
+- 技术栈：vue3+vue-router-pinia+ts+antdv+vite
+- 整体业务: 中信建投基金平台（用户/权限/埋点/基金/基金经理/...）
+- 个人职责：项目搭建及用户权限
+#### cmb/web 招商量化平台
+- 技术栈：vue3+vue-router-pinia+ts+antdv+vite
 - 搭建项目及部分业务开发
-#### bigconfig
-- vue2+element-ui
-- 配置中心
+#### bigconfig 配置中心
+- 技术栈：vue2+element-ui
+- 整体业务: 公司有多套环境（线上/各个B端），不同环境需求不一样，设置一了个配置中心
+- 个人职责：前端独立开发
 #### PAAS平台开发
 - 技术栈：react+ts
 - 整体业务：底层支持
 - 个人职责：开发了用户、用户组、镜像及日常维护
 
-#### 策略编写
+#### biglab2 策略开发环境
 - 在线预览：https://bigquant.com  编写策略
-- 技术栈：react+ts
+- 技术栈：react+ts+vue+antdv
 - 整体业务：在线编写策略
-- 个人职责：功能开发
-### 成都翰东科技有限公司 （ 2019-3 ~ 2021-4）前端开发
+- 个人职责：功能开发（资源购买/资源监控/分享/任务/fai/...）
 
 #### 人员定位及落水报警系统
 - 技术选项：vue3+vue-router+element-plus+ts+konva+axios+webpack
@@ -52,12 +58,3 @@
 - 技术选型：vue全家桶+element-ui+axios+echarts+webpack
 - 整体业务：为部门内的综合管理平台（c端）中的b端开发（wpf内嵌b端），用于管理劳动工具设备的外借、归还、报损、绑定、注销，日常工作记录及打印，数据指标可视化分析。
 - 个人职责：前端独立开发，该项目最大的难题在于需要嵌入c端，c端的指标是最右侧不能出现滚动条，所以这里的所有的table的高度都需要根据每个页面来动态计算，写了个mixins混入相似的页面，加载页面动态计算高度，离开移除事件监听。
-
-####  智能水厂管理系统2.0
-- 技术选型：vue全家桶+element-ui+axios+echarts+webpack
-- 整体业务：为广安污水处理厂定制开发的管理系统，用于管理污水厂的巡检、保养、维修、设备物资，数据指标可视化分析、视频监控、连接工业数据库Scada反控设备。页面级权限。
-- 个人职责：一、二、三级大屏页面、视频监控（海康视频流）、视频控制、巡检视图（websocket）、echarts组件封装。
-  
-
-  
-  
