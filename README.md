@@ -15,7 +15,7 @@
 ## 项目经历
 #### aistudio 
 - 基于vscode开发，适应公司业务，插入可视化
-- vscode插件
+- vscode插件（主题/新建可视化策略/模拟交易/分享/...）
 #### bigwebux 公司官网
 - 在线预览：https://bigquant.com
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
