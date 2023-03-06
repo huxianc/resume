@@ -24,9 +24,6 @@
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
 - 用于运营同事管控（用户/推送/账单/资源/空间/可视化图表/...）
 
-
-<br />
-<br />
 #### fundux 中信建投基金平台
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
 - 整体业务: 中信建投基金平台（用户/权限/埋点/基金/基金经理/...）
