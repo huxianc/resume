@@ -25,7 +25,7 @@
 - 公司官网重构，由之前的Django渲染改为前后端分离，新业务开发（多空间/数据平台/因子平台/...）
 #### operationux 运营控制台
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
-- 用于运营同事管控（用户/推送/账单/资源/空间/可视化图表/...）
+- 用于运营同事使用（用户/推送/账单/资源/空间/可视化图表/...）
 
 #### fundux 某证券基金平台
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
