@@ -15,9 +15,9 @@
 ### 项目经历
 ##### aistudio 
 - 在线预览：https://bigquant.com/aistudio  需要登录
-- 基于vscode开发，对接公司内部认证，插入可视化
+- 基于vscode开发，对接公司内部认证，插入可视化（与vscode通信）
 - vscode插件（主题/新建可视化策略/模拟交易/分享/资源规格/pod存活时间/...）
-- 业务（新手引导/欢迎页）
+- 业务（新手引导/欢迎页/扩展vscode字体），因为要追上游vscode的更新，部分业务使用的vue+antdv实现
 ##### bigwebux 公司官网
 - 在线预览：https://bigquant.com
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
