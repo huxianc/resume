@@ -12,12 +12,19 @@
 - 成都宽邦科技有限公司 （ 2021-4 ~ 至今）前端组长
 - 成都翰东科技有限公司 （ 2020-1 ~ 2021-4）前端开发
 - 成都云尚物联环境科技有限公司 （ 2019-3 ~ 2020-1）前端开发
+- 湖南石油化工职业技术学院（2017-7~2019-2）信息化
 ### 项目经历
 ##### aistudio 
 - 在线预览：https://bigquant.com/aistudio  需要登录
 - 基于vscode开发，对接公司内部认证，插入可视化（与vscode通信）
 - vscode插件（主题/新建可视化策略/模拟交易/分享/资源规格/pod存活时间/...）
 - 业务（新手引导/欢迎页/扩展vscode字体），因为要追上游vscode的更新，部分业务使用的vue+antdv实现
+#### bigtraderterminal
+- 用户交易终端（与券商合作），提供行情、买入卖出等操作
+- 终端基于vscode1.80.1改造，实现打包出一个桌面端软件
+- 业务通信使用vscode内置插件体系打包，vscode apis+vue3+antdv
+- 终端管理控制台：react+antd，
+- 网页端实现策略组合：集合到页面官网中
 ##### bigwebux 公司官网
 - 在线预览：https://bigquant.com
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
