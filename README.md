@@ -20,7 +20,7 @@
 - vscode插件（主题/新建可视化策略/模拟交易/分享/资源规格/pod存活时间/...）
 - 业务（新手引导/欢迎页/扩展vscode字体），因为要追上游vscode的更新，部分业务使用的vue+antdv实现
 #### bigtraderterminal
-- 用户交易终端（与券商合作），提供公告、行情、买入卖出、持仓、撤单等操作
+- 用户交易终端（与券商合作），提供公告、行情、买入卖出、持仓、撤单和信号等操作
   - 终端基于vscode1.80.1改造，实现打包出一个桌面端软件
   - 业务通信使用vscode内置插件体系打包，vscode apis+vue3+antdv
 - 终端管理控制台
@@ -31,6 +31,7 @@
 - 在线预览：https://bigquant.com
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
 - 公司官网重构，由之前的Django渲染改为前后端分离，新业务开发（多空间/数据平台/因子平台/...）
+- 并基于此开发私募版、国际版
 ##### operationux 运营控制台
 - 技术栈：vue3+vue-router-pinia+ts+antdv+vite
 - 用于运营同事使用（用户/推送/账单/资源/空间/可视化图表/...）
