@@ -31,12 +31,12 @@
 - 内部所有需要买点项目都接入该文件
 ##### bigwebux 公司官网
 - 在线预览：https://bigquant.com
-- 技术栈：vue3+vue-router-pinia+ts+antdv+vite
+- 技术栈：vue3+vue-router+pinia+ts+antdv+vite
 - 公司官网重构，由之前的Django渲染改为前后端分离，新业务开发（多空间/数据平台/因子平台/...）
-- 将原有策略分享重构进此项目中，可以本地开发调试
+- 将原有策略分享重构进此项目中
 - 并基于此开发私募版、国际版
 ##### operationux 运营控制台
-- 技术栈：vue3+vue-router-pinia+ts+antdv+vite
+- 技术栈：vue3+vue-router+pinia+ts+antdv+vite
 - 用于运营同事使用（用户/推送/账单/资源/空间/可视化图表/...）
 ##### bigconfig 配置中心
 - 技术栈：vue2+element-ui
