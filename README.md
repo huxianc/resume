@@ -1,5 +1,5 @@
 ### 个人信息
-- 杜立华/15608003136/928965406@qq.com/28/5年前端经验
+- 杜立华/15608003136/928965406@qq.com/28/5年+前端经验
 - 成都理工大学/通信工程/2013-2017
 ### 期望
 - 前端工程师
@@ -20,9 +20,9 @@
 - vscode插件（主题/新建可视化策略/模拟交易/分享/资源规格/pod存活时间/...）
 - 业务（新手引导/欢迎页/扩展vscode字体），因为要追上游vscode的更新（已完成两次升级），部分业务使用的vue+antdv实现
 ##### bigtraderterminal
-- 用户交易终端（与券商合作），提供公告、行情、买入卖出、持仓、撤单和信号等完整的交易功能
+- 用户交易终端（与券商合作），提供公告、行情、买入卖出、持仓、撤单和信号等完整的交易功能,同时完成日志、数据存储、通信加密
   - 终端基于vscode 1.88.1改造，实现打包出一个桌面端软件
-  - 业务通信使用vscode内置插件体系打包，vscode apis+vue3+antdv
+  - 业务通信使用vscode内置插件体系打包，vscode apis + vue3 + antdv
 - 终端管理控制台
   - 用户管理/公告/操作记录
   - react+antd
@@ -32,23 +32,23 @@
 - 所有需要埋点的前端项目都已引入该文件
 ##### bigwebux 公司官网
 - 在线预览：https://bigquant.com
-- 技术栈：vue3+vue-router+pinia+ts+antdv+vite
+- 技术栈：vue3 + vue-router + pinia + ts + antdv + vite
 - 公司官网重构，由之前的Django渲染改为前后端分离，新业务开发（多空间/数据平台/因子平台/...）
 - 将原有策略分享重构进此项目中
 - 并基于此开发私募版、国际版
 ##### operationux 运营控制台
-- 技术栈：vue3+vue-router+pinia+ts+antdv+vite
+- 技术栈：vue3 + vue-router + pinia + ts + antdv + vite
 - 用于运营同事使用（用户/推送/账单/资源/空间/可视化图表/...）
 ##### bigconfig 配置中心
-- 技术栈：vue2+element-ui
+- 技术栈：vue2 + element-ui
 - 整体业务: 公司有多套环境（线上/各个B端），用于管理不同环境的配置
 - 个人职责：前端独立开发
 ##### console PAAS平台
-- 技术栈：react+ts
+- 技术栈：react + ts
 - 整体业务：Kubernetes 管理后台，提供可视化操作
 - 个人职责：开发用户、用户组、镜像等功能
 ##### biglab2 策略开发环境
 - 在线预览：https://bigquant.com  编写策略
-- 技术栈：react+ts+vue+antdv
+- 技术栈：react + ts + vue + antdv
 - 整体业务：一个运行ipynb文件的在线平台
 - 个人职责：功能开发（资源购买/资源监控/分享/任务/fai/...）
