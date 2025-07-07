@@ -21,7 +21,7 @@
 - 并基于此开发私募版、国际版
 - 对接AI,AI对话/AI生成策略/AI解释、修复代码等
 ##### aistudio 
-- 在线预览：https://bigquant.com/aistudio，需要登录后查看
+- 在线预览：https://bigquant.com/aistudio
 - 基于vscode开发，对接公司内部认证，插入可视化（与vscode通信）
 - vscode插件（主题/新建可视化策略/模拟交易/分享/资源规格/pod存活时间/...）
 - 业务（新手引导/欢迎页/扩展vscode字体），追上游vscode的更新（已完成两次升级），部分业务使用的vue+antdv实现
